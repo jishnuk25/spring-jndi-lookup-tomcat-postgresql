@@ -1,0 +1,12 @@
+120.72.26.47 - - [16/Sep/2021:07:03:17 +0000] "GET / HTTP/1.0" 200 11266
+103.146.175.8 - - [16/Sep/2021:07:17:06 +0000] "GET / HTTP/1.1" 404 682
+103.146.175.8 - - [16/Sep/2021:07:47:53 +0000] "GET / HTTP/1.1" 200 11204
+103.146.175.8 - - [16/Sep/2021:07:47:54 +0000] "GET /favicon.ico HTTP/1.1" 200 21630
+198.98.56.34 - - [16/Sep/2021:07:55:12 +0000] "GET /manager/html HTTP/1.1" 403 3446
+183.83.173.205 - - [16/Sep/2021:07:56:29 +0000] "GET /payment-resource/payment-resource/payNow HTTP/1.1" 404 1047
+183.83.173.205 - - [16/Sep/2021:08:06:44 +0000] "POST /payment-resource/paymentResource/payNow HTTP/1.1" 200 118
+183.83.173.205 - - [16/Sep/2021:08:08:26 +0000] "POST /payment-resource/paymentResource/payNow HTTP/1.1" 200 118
+183.83.173.205 - - [16/Sep/2021:08:12:44 +0000] "POST /payment-resource/paymentResource/payNow HTTP/1.1" 200 118
+183.83.173.205 - - [16/Sep/2021:08:13:22 +0000] "POST /payment-resource/paymentResource/payNow HTTP/1.1" 200 118
+183.83.173.205 - - [16/Sep/2021:08:15:38 +0000] "GET /payment-resource/paymentResource/getTransactionByVendor/RRR HTTP/1.1" 200 136
+183.83.173.205 - - [16/Sep/2021:08:25:13 +0000] "GET /payment-resource/paymentResource/getTransactionByVendor/RRR HTTP/1.1" 200 136
